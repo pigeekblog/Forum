@@ -1,0 +1,53 @@
+DOTS BOARD ON THE RASPBERRY PI FORUM
+
+
+DOTs3
+
+Control your Raspberry Pi with paint – perfect for all ages!
+
+The DOTs Board is an official Raspberry Pi product designed by Foundation’s Creative Producer, Rachel Rayns. It’s been used by the Foundation team at events all over the world in 2015 – and now you can buy one yourself.
+
+
+We are really excited to have been able to work with Jamie Mann from the The Pi Hut to bring the DOTs Board to market. You can now buy them exclusively from The Pi Hut in singles, classroom packs of 30 and conference packs of 100.
+
+Raspberry Pi
+
+It’s a HAT-sized board with a Dot-to-Dot (Connect the Dots for our friends over the pond) activity. You use conductive paint to follow the numbers – the Raspberry Pi will read which dots have been connected and will generate your airplane in Minecraft based on your painting.
+
+DOTs2
+
+DOTs Boards are reusable – simply wash the paint off with a wet wipe or damp kitchen roll, allow to dry and start all over again.
+
+dot2
+
+Big kid? You can hack the code to add extra elements into the Minecraft game or start a new game from scratch.
+
+
+Software
+
+So you’ve got your hands on a DOTs Board, but before you connect it to your Raspberry Pi (A+, B+ or Pi 2) you need to install the software.
+
+Andrew Mulholland has created an awesome Minecraft activity to use with the Dots boards. With an up-to-date Raspbian image, connect your Pi to the internet.
+
+Open the terminal and enter:
+
+ sudo apt-get install python-pip
+ sudo pip install rpi_dots_minecraft
+
+
+Once that’s finished installing you are ready to go!
+
+Activity
+
+My friends at Bare Conductive have made a beautiful activity guide for the DOTs Board activity. 
+dots4
+
+Download the PDF version here: DOTs Board Electric Guide
+
+Make your own game
+
+You’ve tried out my game and now you’re ready to make your own? Awesome!
+
+You’ll find the code you need to get started on GitHub, and you can see my example game at github.com/RPi-Distro/python-rpi-dots.
+
+Be sure to share your own creations with me! I can’t wait to see what you make. Email me at: pigeek@outlook.com. Otherwise click here to buy the hat or click here to download the guide for it.
